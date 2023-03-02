@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [(https://kxtara.github.io/Product-Preview-Card/)](https://your-live-site-url.com)
+- Solution URL: [(https://www.frontendmentor.io/solutions/product-preview-card-using-flexbox-sFgaKjJ0lZ)]
+- Live Site URL: [(https://kxtara.github.io/Product-Preview-Card/)]
 
 ## My process
 
